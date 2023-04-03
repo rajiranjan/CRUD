@@ -1,0 +1,5 @@
+config/
+crud-node-express/
+node_modules/
+package-lock.json
+package.json
